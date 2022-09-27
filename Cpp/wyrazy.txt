@@ -1,0 +1,11 @@
+Maciek	3
+morze	2
+powylamywany	6
+granica	3
+januszek	3
+uszatek	3
+roman	2
+komputer	3
+ryk	1
+kaszanka	3
+kot	1
